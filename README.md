@@ -1,4 +1,3 @@
-# weather-forecast-lstm-transformer
 # Explainable Multi-Step Weather Forecasting with LSTM & Transformer
 
 > Multi-step temperature forecasting using ERA5-Land gridded data from the Achaia region, Greece.
